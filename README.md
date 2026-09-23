@@ -3,7 +3,7 @@ Descrição do app de analise de curriculos de usuário ATS Frendly
 
 # Match Curriculum – Pitch Inicial
 
-O App **MatchCV** tem como obejtivo fazer analise do curriculum do usuário usando informações com base na descrição da vaga pretendida. O app faz um matchmarking de vagas de emorego e cria curriculos personalizados ATS Friendly para a vaga pretendida.
+O App **MatchCV** tem como obejtivo fazer analise do curriculum do usuário usando informações com base na descrição da vaga pretendida. O app faz um matchmarking de vagas de emprego e cria curriculos personalizados ATS Friendly para a vaga pretendida.
 
 ---
 ## 1. Prompt usando ChatGPT
